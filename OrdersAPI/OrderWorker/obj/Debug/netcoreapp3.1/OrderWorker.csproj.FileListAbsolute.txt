@@ -1,0 +1,17 @@
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\OrderWorker\bin\Debug\netcoreapp3.1\OrderWorker.exe
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\OrderWorker\bin\Debug\netcoreapp3.1\OrderWorker.deps.json
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\OrderWorker\bin\Debug\netcoreapp3.1\OrderWorker.runtimeconfig.json
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\OrderWorker\bin\Debug\netcoreapp3.1\OrderWorker.runtimeconfig.dev.json
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\OrderWorker\bin\Debug\netcoreapp3.1\OrderWorker.dll
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\OrderWorker\bin\Debug\netcoreapp3.1\OrderWorker.pdb
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\OrderWorker\obj\Debug\netcoreapp3.1\OrderWorker.AssemblyInfoInputs.cache
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\OrderWorker\obj\Debug\netcoreapp3.1\OrderWorker.AssemblyInfo.cs
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\OrderWorker\obj\Debug\netcoreapp3.1\OrderWorker.csproj.CoreCompileInputs.cache
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\OrderWorker\obj\Debug\netcoreapp3.1\OrderWorker.dll
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\OrderWorker\obj\Debug\netcoreapp3.1\OrderWorker.pdb
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\OrderWorker\obj\Debug\netcoreapp3.1\OrderWorker.genruntimeconfig.cache
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\OrderWorker\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\OrderWorker\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\OrderWorker\bin\Debug\netcoreapp3.1\Orders.Domain.dll
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\OrderWorker\bin\Debug\netcoreapp3.1\Orders.Domain.pdb
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\OrderWorker\obj\Debug\netcoreapp3.1\OrderWorker.csproj.CopyComplete

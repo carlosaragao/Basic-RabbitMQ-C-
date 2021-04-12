@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FECDSOVomGpI4NYs18UtOlKkIaNIhqJZSAL8TqxM+E7XJO8ERF3HHTyQtUMW+R7EMW5fPjhAlYD8K+FUiPSQxA==",
+  "success": true,
+  "projectFilePath": "D:\\Estudos\\RabbitMQ\\Orders\\OrdersAPI\\OrdersAPI\\OrdersAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlo\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\carlo\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\carlo\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

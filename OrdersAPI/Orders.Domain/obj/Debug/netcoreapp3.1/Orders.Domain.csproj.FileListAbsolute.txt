@@ -1,0 +1,9 @@
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\Orders.Domain\bin\Debug\netcoreapp3.1\Orders.Domain.deps.json
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\Orders.Domain\bin\Debug\netcoreapp3.1\Orders.Domain.dll
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\Orders.Domain\bin\Debug\netcoreapp3.1\Orders.Domain.pdb
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\Orders.Domain\obj\Debug\netcoreapp3.1\Orders.Domain.csprojAssemblyReference.cache
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\Orders.Domain\obj\Debug\netcoreapp3.1\Orders.Domain.AssemblyInfoInputs.cache
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\Orders.Domain\obj\Debug\netcoreapp3.1\Orders.Domain.AssemblyInfo.cs
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\Orders.Domain\obj\Debug\netcoreapp3.1\Orders.Domain.csproj.CoreCompileInputs.cache
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\Orders.Domain\obj\Debug\netcoreapp3.1\Orders.Domain.dll
+D:\Estudos\RabbitMQ\Orders\OrdersAPI\Orders.Domain\obj\Debug\netcoreapp3.1\Orders.Domain.pdb
