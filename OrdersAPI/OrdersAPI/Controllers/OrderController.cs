@@ -47,7 +47,7 @@ namespace OrdersAPI.Controllers
             }
             catch (Exception e)
             {
-                _logger.LogError("Erro ao tentar criar um novo pedido", e);
+                _logger.LogError("Error trying to create a new order", e);
                 return new StatusCodeResult(500);
             }
         }
